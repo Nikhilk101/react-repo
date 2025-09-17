@@ -36,10 +36,13 @@ button {
 
 .completed {
   text-decoration: line-through;
-  color: gray;
+  color: rgb(89, 249, 105);
 }
 
 ul {
   list-style: none;
   padding: 0;
+}
+.add-button{
+  background-color: orange;
 }
